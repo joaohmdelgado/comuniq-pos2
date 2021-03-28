@@ -2,6 +2,8 @@
 
 Título: Aplicativo Comuniq-Pós.
 
+App em desenvolvimento para o projeto da Disciplina Fundamentos de Informática Aplicada da UFRPE/PPGIA.
+
 Orientador: Gilberto A. de A. Cysneiros Filho
 Aluno: João Henrique de Medeiros Delgado
 
